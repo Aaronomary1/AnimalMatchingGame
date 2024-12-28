@@ -12,7 +12,7 @@
             AnimalButtons.IsVisible = true;
             PlayAgainButton.IsVisible = false;
             List<string> animalEmoji = [
-                    "🐗", "🐗", 
+                    "🦬", "🦬", 
                     "🐭", "🐭",
                     "🦓", "🦓", 
                     "🦍", "🦍", 
